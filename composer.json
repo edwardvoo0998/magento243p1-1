@@ -1,0 +1,5 @@
+{
+    "require": {
+        "razorpay/magento": "^3.7"
+    }
+}
